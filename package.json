@@ -1,0 +1,15 @@
+{
+  "name": "2024.1-alfataste",
+  "version": "1.0.0",
+  "description": "Repositório de projeto da disciplina de REQ-T3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
