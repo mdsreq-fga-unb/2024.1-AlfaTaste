@@ -1,4 +1,4 @@
-# 2024.1-AlfaTaste
+# AlfaTaste
 
 ---
 
