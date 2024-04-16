@@ -10,7 +10,7 @@
 
 ## Método
 
-<p style="text-indent: 2cm; text-align: justify;">No método utilizado, cada membro do grupo preencheu o heatmap indicando sua disponibilidade semanal para reuniões, facilitando o planejamento de reuniões e cronogramas de forma mais eficiente.</p>
+<p style="text-indent: 2cm; text-align: justify;">No método utilizado, cada membro do grupo preencheu o heatmap indicando sua disponibilidade semanal para reuniões, para isso foi utilizado o when2meet.com, facilitando o planejamento de reuniões e cronogramas de forma mais eficiente.</p>
 
 ---
 
