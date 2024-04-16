@@ -6,7 +6,7 @@
 * [Gamificação](./Gamificacao/Gamificacao.md)
 
 * [Planejamento]()
-    - [HeatMap](./Planejamento/heatmap.md)
+    - [Heatmap](./Planejamento/heatmap.md)
     - [Ferramentas](./Planejamento/ferramentas.md)
 
 * [Documentação]()
