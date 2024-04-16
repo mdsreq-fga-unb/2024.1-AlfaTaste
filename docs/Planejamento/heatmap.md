@@ -17,7 +17,7 @@
 ## Resultado
 
 <center>
-    <img alt="heatmap" src="/assets/heatmap.png" style="width: 30%">
+<img src="https://raw.githubusercontent.com/mdsreq-fga-unb/2024.1-AlfaTaste/main/docs/assets/heatmap.png" style="width:auto"/>
 </center>
 
 ---
