@@ -23,11 +23,11 @@
 
 <center>
 
-_Imagem 1: Heatmap_
+_Figura 1: Heatmap_
 
 <img src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/heatmap.png?raw=true" style="width:auto"/>
 
-Fonte: João A.
+Fonte: João A.(2024)
 </center>
 
 ---
