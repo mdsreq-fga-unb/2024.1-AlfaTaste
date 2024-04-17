@@ -103,6 +103,7 @@ _Tabela 2 - Tecnologias a Serem Utilizadas_
 Fonte: Autores(2023)
 </center>
 
+---
 
 ## Referências Bibliográficas
 
