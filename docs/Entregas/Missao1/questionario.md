@@ -59,6 +59,8 @@
     **c. Deve ser adequada ao ciclo de vida e processo de desenvolvimento do produto de software.**  
     d. Deve ser conduzida exclusivamente pelos desenvolvedores. 
 
+---
+
 ## Entendendo o Problema
 
 1. Qual técnica é eficaz para identificar as causas raízes de um problema?  
@@ -130,6 +132,8 @@
     **c. Para definir claramente o limite entre a solução de software e o ambiente externo.**  
     d. Para decidir sobre a estética e o design da interface do usuário.  
 
+---
+
 ## Introdução a Engenharia de Requisitos (ER)
 
 1. Oque é Engenharia de Requisitos? 
@@ -180,6 +184,8 @@
     b. Sempre lineares e seguem uma especificação clássica  
     c. Focadas na obtenção de feedback de clientes após o lançamento do produto  
     d. Desenvolvimento baseado principalmente em modelos  
+
+---
 
 ## Princípios e Valores da ER
 
@@ -232,9 +238,12 @@
     **c. Requisitos não validados podem levar a soluções inúteis, pois não correspondem às necessidades das partes interessadas.**  
     d. A validação de requisitos é exclusivamente para resolver conflitos entre partes interessadas e não tem relação com a qualidade dos requisitos.  
 
-<div style="margin: 0 auto; width: fit-content;">
+---
 
 ## Versionamento
+
+<div style="margin: 0 auto; width: fit-content;">
+
 
 | Data       | Versão | Descrição            | Autor                                                                                                |
 |------------|--------|----------------------|------------------------------------------------------------------------------------------------------|
