@@ -148,8 +148,21 @@ Fonte: Autores(2023)
 ## Fluxo de Trabalho (ScrumXP)
 
 <center>
-    <img alt="Marcio" src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/FluxoTrabalho/img.png?raw=true" style="border-radius: 10%;width: 40%;"/>
-    <img alt="Marck" src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/FluxoTrabalho/img2.png?raw=true" style="border-radius: 10%; width: 40%; ">
+
+_Imagem 1: Fluxo de Trabalho SCRUMXP 1_
+
+<img alt="Im1" src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/FluxoTrabalho/img.png?raw=true" style="border-radius: 10%;width: 40%;"/>
+
+Fonte: Autores(2023)
+</center>
+
+<center>
+
+_Imagem 2: Fluxo de Trabalho SCRUMXP 2_
+
+<img alt="Img2" src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/FluxoTrabalho/img2.png?raw=true" style="border-radius: 10%; width: 40%; ">
+
+Fonte: Autores(2023)
 </center>
 
 ---
