@@ -103,16 +103,17 @@ _Tabela 2 - Tecnologias a Serem Utilizadas_
 Fonte: Autores(2023)
 </center>
 
+---
 
 ## Referências Bibliográficas
 
 * Material da disciplina disponivel no aprender.
 
-<div style="margin: 0 auto; width: fit-content;">
-
 ---
 
 ## Versionamento
+
+<div style="margin: 0 auto; width: fit-content;">
 
 | Data       | Versão | Descrição            | Autor                                                                                                |
 |------------|--------|----------------------|------------------------------------------------------------------------------------------------------|

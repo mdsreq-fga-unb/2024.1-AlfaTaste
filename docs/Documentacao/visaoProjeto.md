@@ -8,7 +8,7 @@
 
 <center style="margin: 0 auto; width: fit-content;">
 
-_Tabela 1 - ..._
+_Tabela 1 - Tabela de Atribuições_
 
 | Disciplina              | Atribuições                                                                                                    | Responsável |
 |-------------------------|----------------------------------------------------------------------------------------------------------------|-------------|
@@ -28,7 +28,7 @@ Fonte: Autores(2023)
 
 <center style="margin: 0 auto; width: fit-content;">
 
-_Tabela 2 - ..._
+_Tabela 2 - Organização da Equipe_
 
 | Papel                  | Atribuições                                                             | Responsável     | Participantes                               |
 |------------------------|-------------------------------------------------------------------------|-----------------|---------------------------------------------|
@@ -48,7 +48,7 @@ Fonte: Autores(2023)
 
 <center style="margin: 0 auto; width: fit-content;">
 
-_Tabela 3 - ..._
+_Tabela 3 - Planejamento das Fases_
 
 | Sprint  | Produto (Entrega)                   | Data Início | Data Fim  |
 |---------|------------------------------------|-------------|-----------|
@@ -67,7 +67,7 @@ Fonte: Autores(2023)
 
 <center style="margin: 0 auto; width: fit-content;">
 
-_Tabela 4 - ..._
+_Tabela 4 - Matriz de Comunicação_
 
 | Descrição                       | Área/Envolvidos  | Periodicidade | Produtos Gerados                              |
 |---------------------------------|------------------|---------------|----------------------------------------------|
@@ -87,7 +87,7 @@ Fonte: Autores(2023)
 
 <center style="margin: 0 auto; width: fit-content;">
 
-_Tabela 5 - ..._
+_Tabela 5 - Gerenciamento de Riscos_
 
 | Riscos                                   | Mitigação                                    | Grau   |
 |------------------------------------------|----------------------------------------------|--------|
@@ -115,9 +115,9 @@ Fonte: Autores(2023)
 
 ---
 
-<div style="margin: 0 auto; width: fit-content;">
-
 ## Versionamento
+
+<div style="margin: 0 auto; width: fit-content;">
 
 | Data       | Versão | Descrição            | Autor                                                                                                |
 |------------|--------|----------------------|------------------------------------------------------------------------------------------------------|

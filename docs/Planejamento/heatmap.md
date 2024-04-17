@@ -14,6 +14,7 @@
 
 ## Método
 
+
 <p style="text-indent: 2cm; text-align: justify;">No método utilizado, cada membro do grupo preencheu o heatmap indicando sua disponibilidade semanal para reuniões, para isso foi utilizado o when2meet.com, facilitando o planejamento de reuniões e cronogramas de forma mais eficiente.</p>
 
 ---
@@ -21,7 +22,12 @@
 ## Resultado
 
 <center>
+
+_Figura 1: Heatmap_
+
 <img src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/heatmap.png?raw=true" style="width:auto"/>
+
+Fonte: João A.(2024)
 </center>
 
 ---
