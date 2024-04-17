@@ -10,7 +10,8 @@
     - [Ferramentas](./Planejamento/ferramentas.md)
 
 * [Documentação]()
-    - [Visão de produto](./Documentacao/visaoProduto.md)
+    - [Visão de Produto](./Documentacao/visaoProduto.md)
+    - [Visão de Projeto](./Documentacao/visaoProjeto.md)
 
 * [Entregas]()
     - [Unidade 1](Apresentacao/apresentacao.md)

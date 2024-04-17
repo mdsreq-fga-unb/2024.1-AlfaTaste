@@ -13,7 +13,7 @@
 _Figura 1 - Diagrama de Ishikawa do Problema_
 
 
-<img alt="Diagrama de Ishikawaa" src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/espinhaPeixe.png?raw=true" style="border-radius: 10%; width: 150px;">
+<img alt="Diagrama de Ishikawaa" src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/espinhaPeixe.png?raw=true" style="border-radius: 10%; width: 100%;">
 
 Fonte: Autores(2023)
 </center>
@@ -82,6 +82,23 @@ Fonte: Autores(2023)
 
 <p style="text-indent: 2cm; text-align: justify;">Para o desenvolvimento do produto de software apresentado, a equipe utilizará as tecnologias listadas na tabela 2.</p>
 
+<center style="margin: 0 auto; width: fit-content;">
+
+_Tabela 2 - Tecnologias a Serem Utilizadas_
+
+| Ferramenta        | Função                  |
+|-------------------|-------------------------|
+| Django            | Back-End e Front-End    |
+| PostgreSQL        | Banco de dados          |
+| Bootstrap         | Front-End               |
+| Git e GitHub      | Versionamento de código |
+| Docsify e GitPages| Documentação            |
+| Docker            | Deploy                  |
+
+
+Fonte: Autores(2023)
+</center>
+
 
 ## Referências Bibliográficas
 
@@ -90,6 +107,8 @@ Fonte: Autores(2023)
 <div style="margin: 0 auto; width: fit-content;">
 
 ---
+
+## Versionamento
 
 | Data       | Versão | Descrição            | Autor                                                                                                |
 |------------|--------|----------------------|------------------------------------------------------------------------------------------------------|
