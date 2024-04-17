@@ -14,6 +14,7 @@ _Tabela 1 - ..._
 | Representação          | E a representação dos requisitos em modelos ou visualização do produto                                          | João        |
 | Verificação e validação| A verificação é a confirmação (ou não) de que os requisitos foram realizados da maneira correta. A validação é a confirmação (ou não) de que os requisitos definem a solução completa. | Leticia     |
 | Organização e atualização| Manter a organização dos requisitos sempre em seu estado atual diante das possíveis mudanças.                  | Felipe      |
+
 Fonte: Autores(2023)
 </center>
 
@@ -33,6 +34,7 @@ _Tabela 2 - ..._
 | Dono do Produto        | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | George Marsicano| George Marsicano                            |
 | Analista de Qualidade  | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Yago | Hugo, Márcio, Yago, Cássio, Letícia, João, Felipe |
 | Cliente                | Identificar requisitos, validar as entregas, fornecer feedbacks e tomar decisões de negócios | Daniel   | Daniel                                      |
+
 Fonte: Autores(2023)
 </center>
 
@@ -51,6 +53,7 @@ _Tabela 3 - ..._
 | Sprint 3| Definição requisitos               | 20/04/24    | 27/04/24  |
 | Sprint 4| Definição do MVP e Backlog do Produto | 27/04/24 | 04/05/24  |
 | Sprint 5| Correção de erros no planejamento | 04/05/24    | 11/05/24  |
+
 Fonte: Autores(2023)
 </center>
 
@@ -70,6 +73,7 @@ _Tabela 4 - ..._
 | Encontro com o cliente          | Equipe, Cliente  | Semanal       | -                                            |
 | Validação do produto            | Equipe, Professor| Semanal       | Comunicar situação do projeto                |
 | Atualização da documentação     | -                | Semanal       | -                                            |
+
 Fonte: Autores(2023)
 </center>
 
@@ -86,6 +90,7 @@ _Tabela 5 - ..._
 | Abandono de algum membro da equipe       | Interação contínua com os integrantes e flexibilidade, empatia | Médio  |
 | Comunicação ineficiente com o cliente    | Comunicação clara e reuniões periódicas definidas | Baixo  |
 | Cancelamento do calendário acadêmico    | Nenhum                                       | Alto   |
+
 Fonte: Autores(2023)
 </center>
 
