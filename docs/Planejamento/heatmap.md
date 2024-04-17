@@ -17,7 +17,7 @@
 ## Resultado
 
 <center>
-<img src="https://raw.githubusercontent.com/mdsreq-fga-unb/2024.1-AlfaTaste/main/docs/assets/heatmap.png" style="width:auto"/>
+<img src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/heatmap.png?raw=true" style="width:auto"/>
 </center>
 
 ---

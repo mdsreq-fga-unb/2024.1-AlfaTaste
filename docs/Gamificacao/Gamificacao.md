@@ -111,7 +111,7 @@ Ele passou sua vida estudando as constelações, os planetas e os mistérios do 
 
 | Data       | Versão | Descrição            | Autor   |
 |------------|--------|----------------------|---------|
-| 16/04/2024 | 0.1    | Criação do documento | João A. |
+| 16/04/2024 | 0.1    | Criação do documento | Cássio Reis; Felipe Motta; Hugo de Melo; João Antonio; Letícia Rodrigues; Márcio Costa; Yago Santos.  |
 
 </div>
 
