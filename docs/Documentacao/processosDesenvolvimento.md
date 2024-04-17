@@ -173,9 +173,10 @@ Fonte: Autores(2023)
 
 ---
 
+## Versionamento
+
 <div style="margin: 0 auto; width: fit-content;">
 
-## Versionamento
 
 | Data       | Versão | Descrição            | Autor                                                                                                |
 |------------|--------|----------------------|------------------------------------------------------------------------------------------------------|

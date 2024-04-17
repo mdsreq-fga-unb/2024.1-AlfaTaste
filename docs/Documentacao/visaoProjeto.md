@@ -115,9 +115,9 @@ Fonte: Autores(2023)
 
 ---
 
-<div style="margin: 0 auto; width: fit-content;">
-
 ## Versionamento
+
+<div style="margin: 0 auto; width: fit-content;">
 
 | Data       | Versão | Descrição            | Autor                                                                                                |
 |------------|--------|----------------------|------------------------------------------------------------------------------------------------------|
