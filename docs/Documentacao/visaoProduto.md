@@ -53,13 +53,13 @@ Fonte: Autores(2023)
 _Tabela 1 - Declaração de Posição do Produto_
 
 |||
-|--------------------------------|----------------------------------------------------------------------------|
-| Para                           | Vendedores de comida externos.                                            |
-| Quem                           | deseja facilitar o comércio                                                |
+|-------------------------------|----------------------------------------------------------------------------|
+| Para                          | Vendedores de comida externos.                                            |
+| Quem                          | deseja facilitar o comércio                                                |
 | O AlfaTaste                   | é um site de reserva                                                       |
-| Quem                           | facilita a compra e a venda de lanches                                     |
-| Ao contrário                   | do iFood e do Uber Eats.                                                   |
-| Nosso produto                  | conecta o usuário com os vendedores perto das universidades e estabelece uma comunicação melhor entre eles. |
+| Que                           | facilita a compra e a venda de lanches                                     |
+| Ao contrário                  | do iFood e do Uber Eats.                                                   |
+| Nosso produto                 | conecta o usuário com os vendedores perto das universidades e estabelece uma comunicação melhor entre eles. |
 |||
 
 Fonte: Autores(2023)
