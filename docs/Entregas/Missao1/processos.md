@@ -4,12 +4,16 @@
 
 </center>
 
+<center>
+<img src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/SlidesFaccao/img.png?raw=true" style="border-radius: 10%; width: 20%;">
+</center>
 
 ---
 
+## Versionamento
+
 <div style="margin: 0 auto; width: fit-content;">
 
-## Versionamento
 
 | Data       | Versão | Descrição            | Autor                                                                                                |
 |------------|--------|----------------------|------------------------------------------------------------------------------------------------------|
