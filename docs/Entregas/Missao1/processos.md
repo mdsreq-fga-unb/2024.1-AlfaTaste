@@ -4,9 +4,9 @@
 
 </center>
 
-<center>
-<img src="https://github.com/mdsreq-fga-unb/2024.1-AlfaTaste/blob/main/docs/assets/SlidesFaccao/img.png?raw=true" style="border-radius: 10%; width: 20%;">
-</center>
+<div style="margin: 0 auto; width: fit-content;">
+    <iframe loading="lazy" style="width: 50vw; height: 20vw; border: none; border-radius: 20px; padding: 0;margin: 0;" src="https://www.canva.com/design/DAGA7FMr_rY/feKobUsWwtK7Frg4EOgZiA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+</div>
 
 ---
 
