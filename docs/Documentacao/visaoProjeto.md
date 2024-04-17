@@ -6,29 +6,11 @@
 
 ---
 
-<center style="margin: 0 auto; width: fit-content;">
-
-_Tabela 1 - Tabela de Atribuições_
-
-| Disciplina              | Atribuições                                                                                                    | Responsável |
-|-------------------------|----------------------------------------------------------------------------------------------------------------|-------------|
-| Elicitação e descoberta| Obter informações e encontrar questões relacionadas com o projeto, como os interessados, a problemática, as necessidade e os desejos e expectativas | Marcio      |
-| Análise e consenso     | Analisar os requisitos em sua forma “bruta” e conciliar para um entendimento comum                             | Cássio      |
-| Declaração             | Comunicação de todos os requisitos por meio oral ou escrito                                                     | Hugo        |
-| Representação          | E a representação dos requisitos em modelos ou visualização do produto                                          | João        |
-| Verificação e validação| A verificação é a confirmação (ou não) de que os requisitos foram realizados da maneira correta. A validação é a confirmação (ou não) de que os requisitos definem a solução completa. | Leticia     |
-| Organização e atualização| Manter a organização dos requisitos sempre em seu estado atual diante das possíveis mudanças.                  | Felipe      |
-
-Fonte: Autores(2023)
-</center>
-
----
-
 ## Organizações da Equipe SCRUM
 
 <center style="margin: 0 auto; width: fit-content;">
 
-_Tabela 2 - Organização da Equipe_
+_Tabela 1 - Organização da Equipe_
 
 | Papel                  | Atribuições                                                             | Responsável     | Participantes                               |
 |------------------------|-------------------------------------------------------------------------|-----------------|---------------------------------------------|
@@ -38,6 +20,26 @@ _Tabela 2 - Organização da Equipe_
 | Dono do Produto        | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | George Marsicano| George Marsicano                            |
 | Analista de Qualidade  | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Yago | Hugo, Márcio, Yago, Cássio, Letícia, João, Felipe |
 | Cliente                | Identificar requisitos, validar as entregas, fornecer feedbacks e tomar decisões de negócios | Daniel   | Daniel                                      |
+
+Fonte: Autores(2023)
+</center>
+
+---
+
+## Atribuições
+
+<center style="margin: 0 auto; width: fit-content;">
+
+_Tabela 2 - Tabela de Atribuições_
+
+| Disciplina              | Atribuições                                                                                                    | Responsável |
+|-------------------------|----------------------------------------------------------------------------------------------------------------|-------------|
+| Elicitação e descoberta| Obter informações e encontrar questões relacionadas com o projeto, como os interessados, a problemática, as necessidade e os desejos e expectativas | Marcio      |
+| Análise e consenso     | Analisar os requisitos em sua forma “bruta” e conciliar para um entendimento comum                             | Cássio      |
+| Declaração             | Comunicação de todos os requisitos por meio oral ou escrito                                                     | Hugo        |
+| Representação          | E a representação dos requisitos em modelos ou visualização do produto                                          | João        |
+| Verificação e validação| A verificação é a confirmação (ou não) de que os requisitos foram realizados da maneira correta. A validação é a confirmação (ou não) de que os requisitos definem a solução completa. | Leticia     |
+| Organização e atualização| Manter a organização dos requisitos sempre em seu estado atual diante das possíveis mudanças.                  | Felipe      |
 
 Fonte: Autores(2023)
 </center>
