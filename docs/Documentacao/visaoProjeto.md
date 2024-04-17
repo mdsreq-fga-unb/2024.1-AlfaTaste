@@ -1,4 +1,8 @@
+<center>
+
 # Visão Geral do Projeto
+
+</center>
 
 ---
 
@@ -109,9 +113,9 @@ Fonte: Autores(2023)
 
 * Material da disciplina disponivel no aprender.
 
-<div style="margin: 0 auto; width: fit-content;">
-
 ---
+
+<div style="margin: 0 auto; width: fit-content;">
 
 ## Versionamento
 
